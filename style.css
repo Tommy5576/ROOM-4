@@ -30,3 +30,16 @@
     padding-left: 20px;
     color: black;
   }
+
+  .footer_detail {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 55px;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .names {
+    list-style: none;
+  }
