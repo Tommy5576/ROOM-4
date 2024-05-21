@@ -60,3 +60,20 @@
   border-radius: 20px;
  
 }
+.about{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  text-align: justify;
+}
+.Welcom-page{
+  width: 60%;
+  margin: 0 auto;
+  font-size: large;
+  padding: 20px;
+  border: 1px solid gray; 
+}
+span{
+  color: blueviolet;
+
+}
